@@ -1,0 +1,31 @@
+Model,Plan edge,Source elevation,Opening ID,Type,Trace start in,Trace end in,Trace pier before in,Source size first value in,Source size second value in,Status,Certified RO,Sill/head
+Studio,T,SOUTH,S01,W,41.8,72.1,41.8,30,60,Elevation callout,TBD,TBD
+Studio,T,SOUTH,S02,G,108.7,144.5,36.6,36,80,Paired vented glazing,TBD,TBD
+Studio,T,SOUTH,S03,D,144.5,180.0,0.0,36,80,Elevation callout,TBD,TBD
+Studio,T,SOUTH,S04,W,216.2,246.4,36.2,30,60,Elevation callout,TBD,TBD
+Studio,B,NORTH,N01,W,93.3,141.9,93.3,48,36,Elevation callout,TBD,TBD
+Studio,R,WEST,W01,W,152.0,181.9,152.0,12,36,Elevation callout,TBD,TBD
+Studio,L,EAST,E01,D,81.2,116.4,81.2,36,80,Elevation callout,TBD,TBD
+Parkview,T,NORTH,N01,W,85.5,120.1,85.5,36,60,Elevation callout,TBD,TBD
+Parkview,T,NORTH,N02,D,176.9,212.8,56.8,36,80,Elevation callout,TBD,TBD
+Parkview,T,NORTH,N03,G,212.8,248.7,0.0,36,80,Paired vented glazing,TBD,TBD
+Parkview,T,NORTH,N04,W,305.9,341.8,57.3,36,60,Elevation callout,TBD,TBD
+Parkview,B,SOUTH,S01,W,167.1,214.5,167.1,48,36,Elevation callout,TBD,TBD
+Parkview,R,EAST,E01,W,29.9,101.6,29.9,72,60,Elevation callout,TBD,TBD
+Parkview,L,WEST,W01,W,49.1,83.6,49.1,36,60,Elevation callout,TBD,TBD
+Haven,T,WEST,W01,W,46.5,81.8,46.5,,,Plan mark only; verify,TBD,TBD
+Haven,T,WEST,W02,W,160.9,230.9,79.1,71,47.5,Elevation callout,TBD,TBD
+Haven,T,WEST,W03,G,277.4,313.7,46.5,37,81,Paired vented glazing,TBD,TBD
+Haven,T,WEST,W04,D,313.7,350.0,0.0,37,81,Elevation callout,TBD,TBD
+Haven,T,WEST,W05,W,380.5,450.5,30.5,71,47.5,Elevation callout,TBD,TBD
+Haven,T,WEST,W06,W,461.2,492.2,10.7,30,60,Elevation callout,TBD,TBD
+Haven,B,EAST,E01,W,89.2,124.0,89.2,30,60,Elevation callout,TBD,TBD
+Haven,B,EAST,E02,W,244.8,281.1,120.8,30,60,Elevation callout,TBD,TBD
+Haven,B,EAST,E03,W,376.8,412.0,95.7,30,60,Elevation callout,TBD,TBD
+Haven,B,EAST,E04,W,471.9,509.3,59.9,30,60,Elevation callout,TBD,TBD
+Haven,R,NORTH,N01,W,50.7,83.3,50.7,,,Plan mark only; verify,TBD,TBD
+Haven,R,NORTH,N02,W,136.2,166.6,52.9,30,60,Elevation callout,TBD,TBD
+Haven,R,NORTH,N03,G,221.1,259.0,54.5,37,81,Paired vented glazing,TBD,TBD
+Haven,R,NORTH,N04,D,263.3,299.6,4.3,37,81,Elevation callout,TBD,TBD
+Haven,L,SOUTH,S01,D,90.2,128.7,90.2,37,82,Elevation callout,TBD,TBD
+Haven,L,SOUTH,S02,W,245.6,279.8,116.9,30,60,Elevation callout,TBD,TBD
